@@ -43,6 +43,9 @@ function App() {
             </a>
             .
           </p>
+          <p>
+            Generated rumours are not guarenteed to be big, clever or funny.
+          </p>
         </Col>
       </Row>
     </Container>
