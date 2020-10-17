@@ -6,6 +6,7 @@
   "I once watched {person} {action} - and only one word comes to mind: {adjective}",
   "I was forever changed after seeing {person} {action}",
   "Much like the time I saw {person} {action}: {adjective}",
+  "My advice: If you think {person} is about to {action}, make yourself scarce",
   "Never attempt to {action} after receiving bad news: I saw {person} do that once and it did not end well",
   "I've not been this worried about health and safety since I saw {person} {action}",
   "This reminds me of the time I witnessed {person} {action} - {adjective} then and still would be today",
@@ -14,8 +15,8 @@
   "Picture the scene: It's Christmas day and I'm witnessing {person} {action}",
   "The most {adjective} holiday I ever had included an evening watching {person} silently {action}",
   "Here's a bit of free advice for you: If you ever see {person} attempting to {action}, run",
-  "An image I will never forget is the time i saw {person} {action} - the only word I can use to describe it is '{adjective}'",
+  "An image I will never forget is the time I saw {person} {action} - the only word I can use to describe it is '{adjective}'",
   "I learned a profound lesson  the morning I beheld {person} {action} like it was nothing",
-  "I don't know how anyone could think that it's okay to laugh uncontrollably while you {action} - but {person} doesn't see to think it's a problem",
+  "I don't know how anyone could think that it's okay to laugh uncontrollably while you {action} - but {person} doesn't seem to think it's a problem",
   "{person} just continued to {action}, even though everybody knew it was fake."
 ]

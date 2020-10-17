@@ -13,7 +13,9 @@ function App() {
     <Container>
       <Row>
         <Col>
-          <h1>Alan Partridge Celebrity Rumour Generator.</h1>
+          <h1 style={{ marginTop: ".5em" }}>
+            Alan Partridge Celebrity Rumour Generator.
+          </h1>
           <p>
             This is a completely unofficial, fan-made generator for creating
             totally untrue annecdotes such as this one...
